@@ -16,7 +16,6 @@ const styles = StyleSheet.create({
     borderColor: 'black',
     borderWidth: 1,
     borderStyle: "solid",
-    borderRadius: 1,
     borderRadius: 10,
   }
 });
